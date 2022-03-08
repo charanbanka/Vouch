@@ -1,0 +1,12 @@
+.main{
+    width:30%;
+}
+
+  @media  screen and (max-width:550px) {
+    .main{
+        width: 500px;
+        margin-top: 5rem;
+    }
+    
+}
+  /*# sourceMappingURL=style.css.map */
